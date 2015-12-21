@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ByRecorder/ByRecorder.iml" filepath="$PROJECT_DIR$/ByRecorder/ByRecorder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ChimpTest/ChimpTest.iml" filepath="$PROJECT_DIR$/../ChimpTest/ChimpTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/GoBrotium/GoBrotium.iml" filepath="$PROJECT_DIR$/GoBrotium/GoBrotium.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../UiAutomatorHelper/UiAutomatorHelper.iml" filepath="$PROJECT_DIR$/../UiAutomatorHelper/UiAutomatorHelper.iml" />
     </modules>
   </component>
 </project>
-
